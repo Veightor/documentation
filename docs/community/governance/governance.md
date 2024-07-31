@@ -29,7 +29,9 @@ In January of 2022, the community adopted a proposal to implement MVP community 
 
 
 
-![](http://openlibra.blog/wp-content/uploads/2022/05/WG-Org-Chart.png)
+
+![](../../images/WG-Org-Chart.png)
+
 
 
 
